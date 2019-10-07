@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script&display=swap');
+
+ body{
+   background:linear-gradient(to right,red,yellow,black);
+}
+
+
+.btn1{
+    position: relative;
+    font-size: 1.5em;    
+    padding: 10px;
+    border-radius: 10px;
+    padding-right: 100px;
+    padding-left: 100px;
+    color: black;
+    margin: 300px 300px 50px 600px;
+    background:linear-gradient(red,yellow);
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em;
+}
+
+.btn1:hover{
+    background:linear-gradient(green,yellow);
+    border-bottom-color: blueviolet;
+}
+
+.btn2{
+    font-size: 1.5em;    
+    padding: 10px;
+    border-radius: 10px;
+    padding-right: 100px;
+    padding-left: 100px;
+    color: black;
+    margin: 0 0 0 600px;
+    background:linear-gradient(blueviolet,yellow);
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em;
+}
+.btn2:hover{
+    background:linear-gradient(black,yellow);
+    border-bottom-color: blueviolet;
+}
+.btn3{
+   
+    font-size: 1.5em;    
+    padding: 10px;
+    border-radius: 10px;
+    padding-right: 100px;
+    padding-left: 100px;
+    color: black;
+    margin: 50px 0 0 600px;
+    background:linear-gradient(blue,yellow);
+    font-family: 'Kaushan Script', cursive;
+    font-size: 2em;
+}
+
